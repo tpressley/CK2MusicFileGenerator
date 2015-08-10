@@ -6,7 +6,7 @@ This is a windows application that automatically generates a file to manage musi
 Usage: 
 Download the executable from bin/debug
 
-Put the executable in the same folder as the .ogg files you're going to use for the game (I personally recomend doing this in a seperate folder from your mod folder)
+Put the executable in the same folder as the .ogg files you're going to use for the game (I personally recommend doing this in a seperate folder from your mod folder)
 
 Run the .exe
 
