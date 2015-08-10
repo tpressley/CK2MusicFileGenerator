@@ -1,0 +1,9 @@
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\bin\Debug\CK2MusicFileCreator.exe.config
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.Form1.resources
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.Properties.Resources.resources
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.csproj.GenerateResource.Cache
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\bin\Debug\CK2MusicFileCreator.exe
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\bin\Debug\CK2MusicFileCreator.pdb
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.exe
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.pdb
+c:\users\tristan\documents\visual studio 2015\Projects\CK2MusicFileCreator\CK2MusicFileCreator\obj\Debug\CK2MusicFileCreator.csprojResolveAssemblyReference.cache
